@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Anime Alarm</string>
+    <string name="title_activity_main">Anime Alarm</string>
+    <string name="package_name">com.animealarm.app</string>
+    <string name="custom_url_scheme">com.animealarm.app</string>
+</resources>
