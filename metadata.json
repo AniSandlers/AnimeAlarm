@@ -1,0 +1,7 @@
+{
+  "name": "Anime Alarm",
+  "description": "A bilingual, free anime-style alarm clock app featuring original characters and an AI assistant named Zoey.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

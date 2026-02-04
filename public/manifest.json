@@ -1,0 +1,21 @@
+{
+    "short_name": "Anime Alarm",
+    "name": "Anime Alarm - Wake Up Senpai",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuBqwU84PNRJ-KZfHfaOpZBhaHRin6hoW0WV3ezYK8OEoXd-KqbC8dq9ueVY9Iq5VFm0VsRF3L3voyglRabJY06V_5H7cGWOFFbs2Jzh0qXJV6A-oMrzkrt7H2DjPsZl8Uxh5er5aTtaJEVetWcWyT0NbPMi0IB27PJkeN-GYdVqAmeF5xa9f-jFLHFyr04cIJ0ywTgzoTcnqlA0Fjfy-_l4UvUMiPoWmMtc-mn7N8Bud5zLfUxFaodzO06B0CLxwarf1jY2sBrD-Is",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#0f172a",
+    "background_color": "#0f172a",
+    "orientation": "portrait"
+}
